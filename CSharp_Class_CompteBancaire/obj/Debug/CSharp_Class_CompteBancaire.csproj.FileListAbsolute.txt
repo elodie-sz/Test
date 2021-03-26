@@ -1,0 +1,14 @@
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\bin\Debug\CSharp_Class_CompteBancaire.exe.config
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\bin\Debug\CSharp_Class_CompteBancaire.exe
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\bin\Debug\CSharp_Class_CompteBancaire.pdb
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.csprojAssemblyReference.cache
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.csproj.CoreCompileInputs.cache
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.exe
+E:\C#\Exercices\Exercices_Cours\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.pdb
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\bin\Debug\CSharp_Class_CompteBancaire.exe.config
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\bin\Debug\CSharp_Class_CompteBancaire.exe
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\bin\Debug\CSharp_Class_CompteBancaire.pdb
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.csprojAssemblyReference.cache
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.csproj.CoreCompileInputs.cache
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.exe
+D:\TPCDA\CSHARP\Classe\CSharp_Class_CompteBancaire\CSharp_Class_CompteBancaire\obj\Debug\CSharp_Class_CompteBancaire.pdb
